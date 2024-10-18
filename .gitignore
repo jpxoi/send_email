@@ -159,3 +159,11 @@ cython_debug/
 
 # Mac Specific
 .DS_Store
+
+# Image files
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+*.ico
